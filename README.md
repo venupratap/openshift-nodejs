@@ -1,5 +1,5 @@
-# khs-example-node-api
-API  Example Node.js
+package.json is missed
+Example Node.js
 
 #############################
 root@ip-172-31-18-174:/opt/openshift-origin-client-tools-v3.9.0-191fece-linux-64bit# history
